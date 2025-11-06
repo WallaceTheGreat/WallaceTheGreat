@@ -24,6 +24,8 @@ Working on "DBD Almanac" on my free time, a project which aims to provide an int
 
 Below are the tools I'm working with regularly, as well as the ones I have good knowledge about.
 
+</div>
+
 **Languages**   
 ![js] ![php] ![c] ![ruby]
 
@@ -46,8 +48,6 @@ Below are the tools I'm working with regularly, as well as the ones I have good 
 ---
 
 <img src="img/qrcode.png" alt="suspicious qrcode" width="128"/>
-
-</div>
 
 
 [js]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black
