@@ -1,6 +1,12 @@
-## 🛠️ Tech Stack
+
 
 <div style="text-align:center;">
+
+# - Wallace the Great -
+Perhaps the best developer of all time *(false)*
+
+
+## 🛠️ Tech Stack
 
 **Languages**   
 ![js] ![php] ![c] ![ruby]
@@ -18,9 +24,12 @@
 **Database**  
 ![postgres] ![mysql]
 
-**Development Tools**  
+**Dev Tools**  
 ![git]  ![clion] ![phpstorm] ![neovim]
 
+---
+
+![Suspicious QRCode](img/qrcode.png)
 
 </div>
 
