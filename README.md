@@ -1,24 +1,28 @@
 <div align="center">
 
 # - Wallace the Great -
-![devinfo](https://img.shields.io/badge/%F0%9F%92%BE-Embedded%20%26%20Web%20developer-7412f5?style=plastic)
+![devinfo](https://img.shields.io/badge/Embedded%20%26%20Web-developer-00ca36?style=plastic&logo=devdotto)
+![devinfo](https://img.shields.io/badge/Vim-enjoyer-00ca36?style=plastic&logo=vim)
 
 </div>
 
-Hi I'm **Wallace**:  
+Hi I'm **Wallace**  
 - 😎 Perhaps the greatest developer of all time (false)  
 - 🇫🇷 From Fr#nce (tragic)  
 - 📖 Studied computer science at Southern Brittany University  
 - 🤖 Still can't use pointers properly
+- 🌱 Currently learning Zig ⚡, the best language
 - 🧀 Cheese
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WallaceTheGreat&theme=github-compact&custom_title=Wallace%20hammering%20stats&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Working on "DBD Almanac" on my free time, a project which aims to provide an interactive wiki for visualizing Dead by Daylight's various statistics.
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WallaceTheGreat&theme=github-compact&custom_title=Wallace%20hammering%20stats&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
 ## 🛠️ Tech Stack
 
-Below are the tools I'm working with regularly, as well as the ones I've good knowledge about.
+Below are the tools I'm working with regularly, as well as the ones I have good knowledge about.
 
 **Languages**   
 ![js] ![php] ![c] ![ruby]
@@ -64,7 +68,7 @@ Below are the tools I'm working with regularly, as well as the ones I've good kn
 [docker]: https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white
 [jenkins]: https://img.shields.io/badge/-Jenkins-d43530?style=plastic&logo=jenkins&logoColor=white
 [git]: https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white
-[clion]: https://img.shields.io/badge/-CLion-4cb3ba?style=plastic&logo=clion&logoColor=white
-[phpstorm]: https://img.shields.io/badge/-PHPStorm-ff318c?style=plastic&logo=phpstorm&logoColor=white
-[neovim]: https://img.shields.io/badge/-Neovim-6ba63f?style=plastic&logo=neovim&logoColor=white
+[clion]: https://img.shields.io/badge/-CLion-4cb3ba?style=plastic&logo=clion&logoColor=0d0d0d
+[phpstorm]: https://img.shields.io/badge/-PHPStorm-ff318c?style=plastic&logo=phpstorm&logoColor=0d0d0d
+[neovim]: https://img.shields.io/badge/-Neovim-6ba63f?style=plastic&logo=neovim&logoColor=indigo
 [gamemaker]: https://img.shields.io/badge/-GameMaker-8ac149?style=plastic&logo=gamemaker&logoColor=white
