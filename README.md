@@ -1,8 +1,12 @@
 <div align="center">
 
 # - Wallace the Great -
-Perhaps the best developer of all time *(false)*
+![devinfo](https://img.shields.io/badge/%F0%9F%92%BE-Embedded%20%26%20Web%20developer-7412f5?style=plastic)  
 
+```
+Hi I'm Wallace
+-> Perhaps the greatest developer of all time (false)
+```
 
 ## 🛠️ Tech Stack
 
@@ -27,9 +31,11 @@ Perhaps the best developer of all time *(false)*
 
 ---
 
-![Suspicious QRCode](img/qrcode.png)
+<img src="img/qrcode.png" alt="suspicious qrcode" width="128"/>
+<img alt="wallace hammering" src="https://tenor.com/gPHZuqZdq8Y.gif">
 
 </div>
+
 
 [js]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
 [php]: https://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=white
