@@ -1,6 +1,4 @@
-
-
-<div style="text-align:center;">
+<div align="center">
 
 # - Wallace the Great -
 Perhaps the best developer of all time *(false)*
