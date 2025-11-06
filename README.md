@@ -12,8 +12,10 @@
 ![nuxt] ![astro]  
 ![bun]  ![express] ![rails] ![symfony]
 
-**Infrastructure**  
+**DevOps**  
 ![docker] ![jenkins]  
+
+**Database**  
 ![postgres] ![mysql]
 
 **Development Tools**  
