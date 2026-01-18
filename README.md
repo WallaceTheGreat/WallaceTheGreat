@@ -30,7 +30,7 @@ Below are the tools I'm working with regularly, as well as the ones I have good 
 ![php] ![c] ![python] ![js] ![ts]
 
 **Embedded Systems**  
-![esp-idf] ![freertos]
+![esp-idf] ![freertos] ![lvgl]
 
 **Web**  
 ![nuxt] ![astro] ![vite]  
@@ -60,6 +60,7 @@ Below are the tools I'm working with regularly, as well as the ones I have good 
 [ruby]: https://img.shields.io/badge/-Ruby-cc342d?style=plastic&logo=ruby&logoColor=white
 [esp-idf]: https://img.shields.io/badge/-ESP%20IDF-e7352c?style=plastic&logo=espressif&logoColor=white
 [freertos]: https://img.shields.io/badge/-FreeRTOS-7abe41?style=plastic&logo=freertos&logoColor=white
+[lvgl]: https://img.shields.io/badge/-LVGL-3C65F8?style=plastic&logo=lvgl&logoColor=white
 [nuxt]: https://img.shields.io/badge/-Nuxt-007F45?style=plastic&logo=nuxt&logoColor=white
 [astro]: https://img.shields.io/badge/-Astro-6117a4?style=plastic&logo=astro&logoColor=white
 [nodejs]: https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white
