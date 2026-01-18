@@ -8,13 +8,13 @@
 
 Hi I'm **Wallace**  
 - 😎 Perhaps the greatest developer of all time (false)  
-- 🇫🇷 From Fr#nce (tragic)  
+- 🇫🇷 From France
 - 📖 Studied computer science at Southern Brittany University  
 - 🤖 Still can't use pointers properly
 - 🌱 Currently learning Zig ⚡, the best language
 - 🧀 Cheese
 
-Working on "DBD Almanac" on my free time, a project which aims to provide an interactive wiki for visualizing Dead by Daylight's various statistics.
+Working on "Compute More" on my free time, a mysterious terminal-like game about meeting quotas...
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WallaceTheGreat&theme=github-compact&custom_title=Wallace%20hammering%20stats&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -27,14 +27,14 @@ Below are the tools I'm working with regularly, as well as the ones I have good 
 </div>
 
 **Languages**   
-![js] ![php] ![c] ![ruby]
+![php] ![c] ![python] ![js] ![ts]
 
 **Embedded Systems**  
 ![esp-idf] ![freertos]
 
 **Web**  
-![nuxt] ![astro]  
-![bun]  ![express] ![rails] ![symfony]
+![nuxt] ![astro] ![vite]  
+![bun]  ![express]  ![symfony] ![fastapi]
 
 **DevOps**  
 ![docker] ![jenkins]  
@@ -51,8 +51,12 @@ Below are the tools I'm working with regularly, as well as the ones I have good 
 
 
 [js]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black
+[ts]: https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white
+[python]: https://img.shields.io/badge/-Python-FFD43B?style=plastic&logo=python&logoColor=black
+[fastapi]: https://img.shields.io/badge/-Fastapi-009485?style=plastic&logo=fastapi&logoColor=white
+[vite]: https://img.shields.io/badge/-Vite-8D6FFE?style=plastic&logo=vite&logoColor=white
 [php]: https://img.shields.io/badge/-PHP-3776AB?style=plastic&logo=php&logoColor=white
-[c]: https://img.shields.io/badge/-C%20\%20C++-0e98e7?style=plastic&logo=c&logoColor=white
+[c]: https://img.shields.io/badge/-C-0e98e7?style=plastic&logo=c&logoColor=white
 [ruby]: https://img.shields.io/badge/-Ruby-cc342d?style=plastic&logo=ruby&logoColor=white
 [esp-idf]: https://img.shields.io/badge/-ESP%20IDF-e7352c?style=plastic&logo=espressif&logoColor=white
 [freertos]: https://img.shields.io/badge/-FreeRTOS-7abe41?style=plastic&logo=freertos&logoColor=white
